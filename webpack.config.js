@@ -20,7 +20,7 @@ module.exports = {
     ]
   },
   output: {
-    path: __dirname + "/public",
+    path: __dirname + "/docs",
     filename: "main.js"
   }
 };
